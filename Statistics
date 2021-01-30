@@ -1,0 +1,36 @@
+
+<body>
+    <h1>Statistics on the Water crisis around the globe</h1>
+    <div id="introduction">
+      <h3>Access to clean water</h3>
+          <p>785 million people lack access to basic, clean, and filtered water (1 in 9)</p>
+      
+      <h3>Relying on surface water</h3>
+      <p>144 million people depend on surface water to meet their basic needs (1 in 56)</p>
+    </div>
+    <div id="household">
+      <h3>Household connection to water</h3>
+      <p>6 times the population of the US has no direct connection to water to their home.These people must spend hours getting water. This may mean that they have to neglect spending time with their family, working, or schooling.</p>
+      <h3>It's only getting worse!</h3>
+       <p>By 2025, half of the world's population will be living in water stressed areas</p>
+       <h3>Waterborne Diseases</h3>
+       <p>1.6 million people die everyday due to waterborne diseases</p>
+  
+      <h3>So what can you do?</h3>
+      <p>
+        <ul>
+          <li>Transport safe, filtered water to various places that suffer from the water crisis.</li>
+          <li>Spread the word to others that are willing to help stop the water crisis.</li>
+        
+  
+      
+     
+  
+          </p>
+          <img src="http://www.seametrics.com/wp-content/uploads/2014/09/global-water-crisis-300x213.jpg"/>
+          <a href"index.html">Home</a>
+          <a href"Countries-Suffering.html">Countries Suffering</a>
+    </div>
+    
+  </body>
+  
