@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Countries that Are Suffering From Water Crisis</title>
+        <h1>Countries That Are Suffering</h1>
+        <ul>
+            <li>Libya</li>
+            <li>Western Sahara</li>
+            <li>Yemen</li>
+            <li>Djibouti</li>
+            <li>Jordan</li>
+            
+        </ul>
+    </head>
+    <body>
+    <div><h3>Libya</h3></div>
+    A health system crisis is spreading in Libya. Particularly the western parts of the country are running out of drinkable water. Much of the water supply system have already been destroyed in the wake of the chaotic situation in the country. Libya is also mostly made up of dry and arid deserts.
+    <div><h3>Western Sahara</h3></div>
+    A health system crisis is looming in Libya. Particularly the western parts of the country are running out of drinkable water. 101 of 149 conduits of the water supply system have already been destroyed in the wake of the chaotic situation in the country.
+    <div><h3>Yemen</h3></div>
+    Yeman has shortage of water because it is incredibly hot, the population increases, and the water management isn't up to par. 50% of the population struggle daily to find or buy enough clean water to drink or to grow food. 14.7 million Yemenis depend on humanitarian aid to keep them healthy  and alive. Instead of collecting and storing rainwater drilling for groundwater has become what they do and no one knows how much is left.
+    <div><h3>Djibouti</h3></div>
+    Since 2009, Djibouti has been severely and negatively affected by drought and its consequences on the rural and urban communities. Precipitation levels have dropped to half of the normal amount, and underground water tables have been drawn down. The scarce rains allow a temporary regeneration of water sources,  insufficient to properly replenish these sources. The drought continues to persist.
+    <div><h3>Jordan</h3></div>
+    Shortages are mainly caused by unsustainable groundwater extraction, including many illegal private wells. As a result, many communities in Jordan have long experienced tensions over water scarcity, even before the arrival of 657,433 registered Syrian refugees in the last five years.
+
+    <a href"index.html">Home</a>
+    <a href"Statistics.html">Statistics</a>
+    </body>
+</html>
